@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1411228290 source:e:\karir dan kuliah\ilmu komputer\semester 7\pengantar pengolahan citra digital\tugas1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdlib.h>
+	"opencv\cv.h"
+	"opencv\highgui.h"
+
